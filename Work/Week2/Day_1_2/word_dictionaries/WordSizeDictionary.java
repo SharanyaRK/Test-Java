@@ -1,11 +1,11 @@
 /**
-* Program to create a map with length of word as key and value as list of words with * that length 
+* Program to create a map with length of word as key and value as list of words with that length 
 */
 
 package word_dictionaries;
 import java.util.*;
 
-/* Main class to create map 
+/* Main class to create map */
 
 public class WordSizeDictionary extends WordDictionary<Integer>{
 

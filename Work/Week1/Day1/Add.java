@@ -8,6 +8,7 @@ class Add{
 		Scanner sc=new Scanner(System.in);
 		// Variables to read number
 		int x=sc.nextInt(); 
+		//adding scan for next var
 		int y=sc.nextInt();
 		int z=x+y;
 		// Display the added value
